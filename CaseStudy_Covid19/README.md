@@ -4,4 +4,4 @@ There are two versions of the case study that deals with Covid-19. The first one
 
 Both are related in that they rely on versions of the classic S(E)IR model, but use different techniques and software to model the outbreak. Feel free to poke around both and go through the example you find most interesting. 
 
-Please do note that the software is system-specific and you will need to either work with the material directly on your machine, or engage with the container provided for you through Docker or `renv`. 
+Please do note that the software we use is system-specific and you will need to either work with the material directly on your machine, or engage with the container provided for you through Docker or `renv`. 
